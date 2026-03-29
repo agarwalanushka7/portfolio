@@ -1,6 +1,6 @@
 # 🌐 Anushka Agarwal - Portfolio
 
-🚀 Live: https://aggarwalanushka7.github.io/portfolio/
+🚀 Live:  https://agarwalanushka7.github.io/portfolio/
 
 ## 👩‍💻 About
 AI/ML-focused Computer Science student building real-world systems using RAG, LLMs, and scalable backend architectures.
